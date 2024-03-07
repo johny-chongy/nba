@@ -1,0 +1,31 @@
+team,full_name,conference,division
+ATL,Atlanta Hawks,E,SE
+BOS,Boston Celtics,E,ATL
+BKN,Brooklyn Nets,E,ATL
+CHA,Charlotte Hornets,E,SE
+CHI,Chicago Bulls,E,CEN
+CLE,Cleveland Cavaliers,E,CEN
+DAL,Dallas Mavericks,W,SW
+DEN,Denver Nuggets,W,NW
+DET,Detroit Pistons,E,CEN
+GSW,Golden State Warriors,W,PAC
+HOU,Houston Rockets,W,SW
+IND,Indiana Pacers,E,CEN
+LAC,LA Clippers,W,PAC
+LAL,Los Angeles Lakers,W,PAC
+MEM,Memphis Grizzlies,W,SW
+MIA,Miami Heat,E,SE
+MIL,Milwaukee Bucks,E,CEN
+MIN,Minnesota Timberwolves,W,NW
+NOR,New Orleans Pelicans,W,SW
+NYK,New York Knicks,E,ATL
+OKC,Oklahoma City Thunder,W,NW
+ORL,Orlando Magic,E,SE
+PHI,Philadelphia 76ers,E,ATL
+PHO,Phoenix Suns,W,PAC
+POR,Portland Trail Blazers,W,NW
+SAC,Sacramento Kings,W,PAC
+SAS,San Antonio Spurs,W,SW
+TOR,Toronto Raptors,E,ATL
+UTA,Utah Jazz,W,NW
+WAS,Washington Wizards,E,SE
